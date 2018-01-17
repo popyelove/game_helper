@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34ae230d-4bef-4d92-b00e-288d0d19285f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/===============================================m-======================tfo==================================d!" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/GetImgTool.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/GetQuestionTessAndroid.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/GetQuestionTessIos.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/baiduApiVersion/GetTitleBaiduAndroid.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/baiduApiVersion/GetTitleBaiduIos.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/baiduApiVersion/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cho.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/common/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/common/methods.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/common/ocr.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/common/screenshot.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/devicesCutConfig.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/main.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ques.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/cut.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/result.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/result2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/result3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/screenshot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/simpleVersion/GetTitleTessAndroid.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/simpleVersion/GetTitleTessIos.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test.png" />
-      <change beforePath="$PROJECT_DIR$/1.tt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/screenshot.png" afterPath="$PROJECT_DIR$/screenshot.png" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,18 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="GetQuestionTessIos.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GetQuestionTessIos.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,7 +24,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="633" />
     <option name="y" value="45" />
     <option name="width" value="1666" />
@@ -135,7 +99,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="633" y="45" width="1666" height="990" extended-state="0" />
+    <frame x="633" y="45" width="1666" height="990" extended-state="1" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
