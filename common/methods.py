@@ -58,9 +58,9 @@ def output(choices, counts):
     # 计数最少
     index_min = counts.index(min(counts))
 
-    # if index_max == index_min:
-    #     print(Fore.RED + "高低计数相等此方法失效！" + Fore.RESET)
-    #     return
+    if index_max == index_min:
+        print(Fore.RED + "高低计数相等此方法失效！" + Fore.RESET)
+        return
 
     for i in range(len(choices)):
         print()
